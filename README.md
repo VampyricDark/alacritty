@@ -1,20 +1,24 @@
-# Vampyric [X](http://link-to-x.com)
+# Vampyric [Alacritty](https://github.com/alacritty/alacritty)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Alacritty Terminal](https://github.com/alacritty/alacritty).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-Insert your instructions on how to get your theme up and running here.
+Replace the current color definitions in your `alacritty.yml` configuration file with the content from the [`VampyricDark.yml`](VampyricDark.yml) file.
+
+## Activation
+
+If `live_config_reload` is set to `true` the colors are applied immediately, otherwise Alacritty must be restarted.
 
 ## Team
 
 This theme maintained by:
 
-[![RaphGL](https://github.com/RaphGL.png?size=100)](https://github.com/RaphGL) |
+[![WitherCubes](https://github.com/WitherCubes.png?size=100)](https://github.com/WitherCubes) |
 --- |
-[RaphGL](https://github.com/RaphGL) |
+[WitherCubes](https://github.com/WitherCubes) |
 
 ## License
 

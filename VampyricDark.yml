@@ -1,0 +1,26 @@
+# Colors (VampyricDark)
+
+colors:
+  primary:
+    background: '#18191f'
+    foreground: '#f8f8f2'
+
+  normal:
+    black: '#3b3c4a'
+    red: '#e04848'
+    green: '#59de47'
+    yellow: '#e3db4b'
+    blue: '#4e72e6'
+    magenta: '#ff59c5'
+    cyan: '#54a7f0'
+    white: '#f8f8f2'
+
+  bright:
+    black: '#3b3c4a'
+    red: '#e04848'
+    green: '#59de47'
+    yellow: '#e3db4b'
+    blue: '#4e72e6'
+    magenta: '#ff59c5'
+    cyan: '#54a7f0'
+    white: '#f8f8f2'
